@@ -1,0 +1,13 @@
+
+  
+.imagens img {
+    height: 300px;}
+ 
+/* ajsute imagens */
+
+.imagens{ position: absolute;
+    top:100px
+}
+.fotos {padding-bottom: 100px;}
+
+.estudio {position: absolute; top: 910PX;}
